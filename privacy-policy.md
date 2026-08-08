@@ -2,6 +2,9 @@
 
 **시행일자: [YYYY-MM-DD]**
 
+**공개 URL: https://indpendenter.github.io/findnana-legal/privacy-policy**
+(App Store Connect / Play Console 제출 시 이 URL 그대로 사용)
+
 FindNana(이하 "본 앱")는 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다. 본 방침은 본 앱을 이용하는 과정에서 수집·이용되는 정보에 대해 안내합니다.
 
 ---
