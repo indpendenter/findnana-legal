@@ -26,18 +26,18 @@ FIND NANA(한글명: 나나를 찾아라, 이하 "본 앱")는 이용자의 개�
 ### 1-2. 광고 서비스 (Google AdMob)
 본 앱은 광고 노출 및 보상형 광고(힌트 제공) 기능을 위해 Google AdMob을 사용합니다. AdMob은 광고 제공, 성과 측정, 부정 클릭 방지 등을 위해 아래 정보를 수집할 수 있습니다.
 
-- 광고 식별자 (IDFA / Google Advertising ID)
+- 광고 식별자 (Google Advertising ID)
 - IP 주소 (대략적인 위치 추정에 사용될 수 있음)
 - 기기 정보 (기기 모델, OS 버전 등)
 - 앱 내 활동 정보(광고 노출/클릭 이력 등)
 
 이 정보는 Google 및 Google과 계약한 제3자 광고 파트너에게 전달될 수 있습니다. AdMob의 데이터 처리 방식은 [Google 개인정보처리방침](https://policies.google.com/privacy)을 따릅니다.
 
-### 1-3. 인앱 결제 (Apple App Store / Google Play)
-광고 제거 상품(remove_ads) 구매 시, 결제는 Apple 또는 Google의 결제 시스템을 통해 처리되며 **본 앱은 카드 정보 등 결제 수단 정보에 접근하거나 저장하지 않습니다.** 구매 여부 확인 및 복원(Restore Purchases)을 위한 최소한의 구매 기록만 기기에 저장됩니다.
+### 1-3. 인앱 결제 (Google Play)
+광고 제거 상품(remove_ads) 구매 시, 결제는 Google Play의 결제 시스템을 통해 처리되며 **본 앱은 카드 정보 등 결제 수단 정보에 접근하거나 저장하지 않습니다.** 구매 여부 확인 및 복원(Restore Purchases)을 위한 최소한의 구매 기록만 기기에 저장됩니다.
 
-### 1-4. 업적 (Game Center / Google Play Games)
-업적 기능은 각 플랫폼(Apple Game Center, Google Play Games Services)이 제공하는 네이티브 서비스를 통해 처리되며, 본 앱은 별도의 계정 정보를 수집하지 않습니다. 관련 데이터 처리는 각 플랫폼의 개인정보처리방침을 따릅니다.
+### 1-4. 업적 (Google Play Games)
+업적 기능은 Google Play Games Services가 제공하는 네이티브 서비스를 통해 처리되며, 본 앱은 별도의 계정 정보를 수집하지 않습니다. 관련 데이터 처리는 Google의 개인정보처리방침을 따릅니다.
 
 ---
 
@@ -57,8 +57,8 @@ FIND NANA(한글명: 나나를 찾아라, 이하 "본 앱")는 이용자의 개�
 | 서비스 | 제공자 | 목적 |
 |---|---|---|
 | 광고 | Google AdMob | 광고 노출, 보상형 광고 |
-| 인앱 결제 | Apple / Google | 결제 처리 |
-| 업적 | Apple Game Center / Google Play Games | 업적 기록 |
+| 인앱 결제 | Google Play | 결제 처리 |
+| 업적 | Google Play Games | 업적 기록 |
 
 ---
 
@@ -70,7 +70,7 @@ FIND NANA(한글명: 나나를 찾아라, 이하 "본 앱")는 이용자의 개�
 
 ## 5. 이용자 권리
 
-- 광고 개인화 거부: 기기 설정(iOS: 앱 추적 투명성(ATT) / Android: 광고 설정)에서 언제든 변경 가능
+- 광고 개인화 거부: 기기 설정(Android: 광고 설정)에서 언제든 변경 가능
 - EU 지역 이용자: 앱 최초 실행 시 노출되는 동의 관리(UMP) 화면을 통해 광고 관련 동의 여부를 선택 및 변경 가능
 - 앱 삭제 시 기기에 저장된 모든 게임 진행 데이터가 함께 삭제됨
 
@@ -79,7 +79,7 @@ FIND NANA(한글명: 나나를 찾아라, 이하 "본 앱")는 이용자의 개�
 ## 6. 데이터 보관 기간
 
 - 게임 진행 데이터: 앱이 기기에 설치되어 있는 동안 보관, 삭제 시 함께 삭제
-- 광고/결제 관련 데이터: 각 서비스 제공자(Google, Apple)의 정책에 따름
+- 광고/결제 관련 데이터: 서비스 제공자(Google)의 정책에 따름
 
 ---
 
@@ -98,6 +98,6 @@ FIND NANA(한글명: 나나를 찾아라, 이하 "본 앱")는 이용자의 개�
 
 ---
 
-## English Summary (App Store / Google Play용 요약)
+## English Summary (Google Play용 요약)
 
-FIND NANA does not require account registration or collect personally identifiable information directly. Game progress is stored locally on the device only. The app uses Google AdMob for advertising (including rewarded ads for hints), which may collect advertising identifiers, IP address, and device information as described in [Google's Privacy Policy](https://policies.google.com/privacy). In-app purchases (ad removal) are processed by Apple/Google and this app does not access payment details. Achievement features use native Game Center / Google Play Games Services. Users can opt out of personalized ads via device settings (ATT on iOS) or the in-app consent (UMP) prompt for EU users. Contact: [email address].
+FIND NANA does not require account registration or collect personally identifiable information directly. Game progress is stored locally on the device only. The app uses Google AdMob for advertising (including rewarded ads for hints), which may collect advertising identifiers, IP address, and device information as described in [Google's Privacy Policy](https://policies.google.com/privacy). In-app purchases (ad removal) are processed by Google Play and this app does not access payment details. Achievement features use native Google Play Games Services. Users can opt out of personalized ads via device settings or the in-app consent (UMP) prompt for EU users. Contact: [email address].
