@@ -1,11 +1,13 @@
-# FindNana 개인정보처리방침
+# FIND NANA 개인정보처리방침
 
 **시행일자: [YYYY-MM-DD]**
 
 **공개 URL: https://indpendenter.github.io/findnana-legal/privacy-policy**
 (App Store Connect / Play Console 제출 시 이 URL 그대로 사용)
 
-FindNana(이하 "본 앱")는 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다. 본 방침은 본 앱을 이용하는 과정에서 수집·이용되는 정보에 대해 안내합니다.
+**이용약관: https://indpendenter.github.io/findnana-legal/terms-of-service**
+
+FIND NANA(한글명: 나나를 찾아라, 이하 "본 앱")는 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다. 본 방침은 본 앱을 이용하는 과정에서 수집·이용되는 정보에 대해 안내합니다. 본 앱의 이용 조건 전반에 관한 사항은 [이용약관](https://indpendenter.github.io/findnana-legal/terms-of-service)을 함께 참고하시기 바랍니다.
 
 ---
 
@@ -97,4 +99,4 @@ FindNana(이하 "본 앱")는 이용자의 개인정보를 중요하게 생각�
 
 ## English Summary (App Store / Google Play용 요약)
 
-FindNana does not require account registration or collect personally identifiable information directly. Game progress is stored locally on the device only. The app uses Google AdMob for advertising (including rewarded ads for hints), which may collect advertising identifiers, IP address, and device information as described in [Google's Privacy Policy](https://policies.google.com/privacy). In-app purchases (ad removal) are processed by Apple/Google and this app does not access payment details. Achievement features use native Game Center / Google Play Games Services. Users can opt out of personalized ads via device settings (ATT on iOS) or the in-app consent (UMP) prompt for EU users. Contact: [email address].
+FIND NANA does not require account registration or collect personally identifiable information directly. Game progress is stored locally on the device only. The app uses Google AdMob for advertising (including rewarded ads for hints), which may collect advertising identifiers, IP address, and device information as described in [Google's Privacy Policy](https://policies.google.com/privacy). In-app purchases (ad removal) are processed by Apple/Google and this app does not access payment details. Achievement features use native Game Center / Google Play Games Services. Users can opt out of personalized ads via device settings (ATT on iOS) or the in-app consent (UMP) prompt for EU users. Contact: [email address].
