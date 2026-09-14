@@ -3,7 +3,6 @@
 **시행일자: [YYYY-MM-DD]**
 
 **공개 URL: https://indpendenter.github.io/findnana-legal/terms-of-service**
-(App Store Connect / Play Console 제출 시 이 URL 그대로 사용)
 
 본 약관은 "나나를 찾아라"(영문명: FIND NANA, 이하 "본 서비스")를 이용함에 있어 개발자와 이용자 간의 권리, 의무 및 책임사항을 정합니다.
 

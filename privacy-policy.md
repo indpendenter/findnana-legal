@@ -3,7 +3,6 @@
 **시행일자: [YYYY-MM-DD]**
 
 **공개 URL: https://indpendenter.github.io/findnana-legal/privacy-policy**
-(App Store Connect / Play Console 제출 시 이 URL 그대로 사용)
 
 **이용약관: https://indpendenter.github.io/findnana-legal/terms-of-service**
 
