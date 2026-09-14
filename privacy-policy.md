@@ -2,9 +2,8 @@
 
 **시행일자: [YYYY-MM-DD]**
 
-**공개 URL: https://indpendenter.github.io/findnana-legal/privacy-policy**
-
-**이용약관: https://indpendenter.github.io/findnana-legal/terms-of-service**
+**개인정보처리방침: [https://indpendenter.github.io/findnana-legal/privacy-policy](https://indpendenter.github.io/findnana-legal/privacy-policy)**
+**이용약관: [https://indpendenter.github.io/findnana-legal/terms-of-service](https://indpendenter.github.io/findnana-legal/terms-of-service)**
 
 FIND NANA(한글명: 나나를 찾아라, 이하 "본 앱")는 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다. 본 방침은 본 앱을 이용하는 과정에서 수집·이용되는 정보에 대해 안내합니다. 본 앱의 이용 조건 전반에 관한 사항은 [이용약관](https://indpendenter.github.io/findnana-legal/terms-of-service)을 함께 참고하시기 바랍니다.
 
