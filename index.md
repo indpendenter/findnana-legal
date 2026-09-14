@@ -1,4 +1,6 @@
-# FIND NANA 법적 문서
+---
+title: FIND NANA 법적 문서
+---
 
 FIND NANA("나나를 찾아라") 앱의 공식 법적 문서 목록입니다.
 
